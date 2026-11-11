@@ -59,7 +59,6 @@ I'm building **food no thought**, a deliberately un-precious food and writing pr
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maddiefletcher96-png&show_icons=true&hide_border=false&bg_color=fff0f6&title_color=e75480&icon_color=f06595&text_color=6d3a5c&border_color=ffc8dd&border_radius=14" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=maddiefletcher96-png&background=fff0f6&border=ffc8dd&ring=e75480&fire=f06595&currStreakNum=6d3a5c&sideNums=6d3a5c&currStreakLabel=e75480&sideLabels=e75480&dates=b07a9c&stroke=ffc8dd&border_radius=14" alt="GitHub streak" />
 </p>
 
