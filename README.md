@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madeline-fletcher-00a532169/"><img src="https://img.shields.io/badge/LinkedIn-ffafcc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.staysecondnature.com/"><img src="https://img.shields.io/badge/Second%20Nature-cdb4db?style=for-the-badge&logo=airbnb&logoColor=white" alt="Second Nature" /></a>
   <img src="https://img.shields.io/badge/London-ffc8dd?style=for-the-badge&logo=googlemaps&logoColor=white" alt="London" />
   <img src="https://komarev.com/ghpvc/?username=maddiefletcher96-png&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -13,7 +12,7 @@
 
 ## 🌸 About me
 
-I'm the comms lead for **Second Nature**, the hometel brand from Lamington Group (formerly room2). I look after brand, content and social, which mostly comes down to being responsible for how the whole thing sounds.
+I look after brand, content and social, which mostly comes down to being responsible for how the whole thing sounds. Most recently I was comms lead at **Second Nature**, the hometel brand from Lamington Group (formerly room2).
 
 - 💼 Seven-ish years across **hospitality, FMCG and agency**
 - 🖼️ A **History of Art** degree underneath it all, which I use more than you'd think
