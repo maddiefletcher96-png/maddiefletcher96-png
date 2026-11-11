@@ -66,9 +66,5 @@ I'm building **food no thought**, a deliberately un-precious food and writing pr
 ---
 
 <p align="center">
-  <i>🎀 🪞 🩰 🦢 🕯️ &nbsp; thanks for stopping by &nbsp; 🕯️ 🦢 🩰 🪞 🎀</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cdb4db,50:ffafcc,100:ffc8dd&height=110&section=footer" alt="footer" />
+  <img src="footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
