@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Pixel-art cover: Hey, I'm Maddie" />
+  <img src="header.svg?v=3" width="100%" alt="Pixel-art cover: Hey, I'm Maddie" />
 </p>
 
 <p align="center">
@@ -65,5 +65,5 @@ I'm building **food no thought**, a deliberately un-precious food and writing pr
 ---
 
 <p align="center">
-  <img src="footer.svg" width="100%" alt="Thanks for stopping by" />
+  <img src="footer.svg?v=1" width="100%" alt="Thanks for stopping by" />
 </p>
