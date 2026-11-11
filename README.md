@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3200&pause=900&color=E75480&center=true&vCenter=true&width=560&lines=Comms+lead+at+Second+Nature+🦢;Brand+%E2%80%A2+Content+%E2%80%A2+Social+🩰;Copy+that+earns+its+place+🕯️;Reasonably+dangerous+in+Figma+🪞" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3200&pause=900&color=E75480&center=true&vCenter=true&width=560&lines=Comms+lead+at+Second+Nature;Brand+%E2%80%A2+Content+%E2%80%A2+Social;Copy+that+earns+its+place;Reasonably+dangerous+in+Figma" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -63,7 +63,6 @@ I'm building **food no thought**, a deliberately un-precious food and writing pr
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maddiefletcher96-png&show_icons=true&hide_border=false&bg_color=fff0f6&title_color=e75480&icon_color=f06595&text_color=6d3a5c&border_color=ffc8dd&border_radius=14" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=maddiefletcher96-png&background=fff0f6&border=ffc8dd&ring=e75480&fire=f06595&currStreakNum=6d3a5c&sideNums=6d3a5c&currStreakLabel=e75480&sideLabels=e75480&dates=b07a9c&stroke=ffc8dd&border_radius=14" alt="GitHub streak" />
 </p>
 
