@@ -44,7 +44,7 @@ I'm building **food no thought**, a deliberately un-precious food and writing pr
 | Project | What it is |
 |:--|:--|
 | 🛠️ [**marketing-toolkit**](https://github.com/maddiefletcher96-png/marketing-toolkit) | Templates, playbooks and AI workflows for marketing and comms in hospitality and consumer brands |
-| 🪞 [**about-me**](https://github.com/maddiefletcher96-png/about-me) | Who am I |
+| 🌿 [**second-nature-social-dashboard**](https://github.com/maddiefletcher96-png/second-nature-social-dashboard) | A demo social media dashboard for Second Nature: Instagram and TikTok performance, social to stay, reports in the brand's deck style. [Try the demo](https://maddiefletcher96-png.github.io/second-nature-social-dashboard/) |
 
 ## 💅 Toolkit
 
